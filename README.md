@@ -32,11 +32,25 @@ The ranking model has almost the same structure, although we add a lot more feat
 ![2023-03-01_11h06_30](https://user-images.githubusercontent.com/62257166/222106086-9b326fd6-3c6f-4a01-9bb1-66bcf9b242b1.png)
 
 
-## Results
-
-
 
 ## Reference
 
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 
+anchor paper:
+
+https://data-flair.training/blogs/youtube-video-recommendation-system-ml/
+
+https://github.com/revathijay/Python-Notebooks/blob/master/Recommendation/MovieLens_Youtube_Recommendation_Candidate_Generation_Network.ipynb
+
+https://github.com/hyez/Deep-Youtube-Recommendations/tree/908d2f04120b6041b804e373bd323b75a28b77a6
+
+improvment:
+
+https://towardsdatascience.com/monte-carlo-dropout-7fd52f8b6571
+
+state of the art:
+
+https://arxiv.org/pdf/2108.12184.pdf
+
+https://github.com/usydnlp/Glocal_K

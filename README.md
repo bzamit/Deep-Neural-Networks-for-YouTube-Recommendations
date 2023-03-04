@@ -22,8 +22,6 @@ We use MovieLens data from kaggle, which contains 10 thousand users with 100 tho
 
 In the paper of youtube recommendation, adding depths to network improves the performance, and indeed it improves the learning speed. it turns out that adding depths does not improve in our network. high accuracy may not be a good sign in this stage, the data is easily overfitted in our case.
 
-![2023-03-01_11h06_13](https://user-images.githubusercontent.com/62257166/222095153-76fc81f2-3df9-4aef-a2e6-cfe0e3d37d16.png)
-
 
 ## Ranking
 

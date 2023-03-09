@@ -11,7 +11,6 @@ The overall structure of our recommendation network consists of two models, cand
 ### Dataset
 
 We use MovieLens data from kaggle, which contains 10 thousand users with 100 thousand of ratings corresponded to 45 thousand of movies. This data contains about 30 different features that we can explore through it. 
-![image](https://user-images.githubusercontent.com/62257166/222091961-51a4b9f4-77e1-4793-b406-04c229cf7bed.png)
 
 ## Candidate generation
 
